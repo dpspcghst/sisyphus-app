@@ -8,6 +8,7 @@ interact with other parts the internet.
 REQUIREMENTS
 ------------
 
+* beautifulsoup4==4.9.3
 * requests==2.25.1
 
 
